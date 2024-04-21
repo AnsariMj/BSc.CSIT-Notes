@@ -1,0 +1,10 @@
+1. Write a program to load memory locations 7090 H and 7080 H with data 40H and
+50H and then swap these data.
+
+2. Pair B contains 1122H and pair D contains 3344H. WAP to exchange the contents of B
+and D pair using XCHG instruction.
+
+3. write a program to load data in registers B and C from memory location 8000 and 8001. subtract these two numbers and output the result in port number 06H.
+
+4. Register BC contains 8538H and register DE contain 62A5H. Write instructions to
+subtract the contents of DE from the contents of BC and Place the result in BC.
